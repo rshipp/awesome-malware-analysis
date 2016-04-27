@@ -87,11 +87,11 @@ A curated list of awesome malware analysis tools and resources. Inspired by
 * [ViruSign](http://www.virusign.com/) - Malware database that detected by
   many anti malware programs except ClamAV.
 * [VirusShare](https://virusshare.com/) - Malware repository, registration
+  required.
 * [Zeltser's Sources](https://zeltser.com/malware-sample-sources/) - A list
   of malware sample sources put together by Lenny Zeltser.
 * [Zeus Source Code](https://github.com/Visgean/Zeus) - Source for the Zeus
   trojan leaked in 2011.
-  required.
 
 ## Open Source Threat Intelligence
 
